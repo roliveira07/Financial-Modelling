@@ -1,3 +1,3 @@
 During my MSc FinTech & Policy at the University of Surrey I completed the module "Financial Modelling" which was split into two assignments:
-- In the midterm assignment attached I achieved a grade of 96%
-- In the final assignment attached I achieved a grade of 84%
+- In the midterm assignment we were required to produce a Jupyter notebook that uses companies’ financial data to produce analytical reports of their cost of debt (based on bond prices and yields), cost of equity (based on CAPM and betas) and cost of capital (based on their balance sheets and WACC). A grade of 96% was achieved.
+- In the final assignment we were required to produce a Jupyter notebook as a continuation of the midterm assignment. We were required to perform a portfolio optimisation and evaluate Value-at-Risk of securities given (e.g. Google and Amazon stock) through a Bloomberg terminal. A grade of 84% was achieved.
